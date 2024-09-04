@@ -1,4 +1,4 @@
-# Programa-Embarque-Digital
+# GestãoDesempenhoAcadêmico
 
 Este código tem como objetivo fornecer informações sobre o desempenho dos alunos em uma Instituição de Ensino. O programa recebe as notas de 1ª e 2ª avaliação de cada aluno e calcula a média de cada um em cada disciplina. Em seguida, verifica a situação do aluno (Reprovado por média, Aguardando final ou Aprovado por média) com base na sua média.
 
